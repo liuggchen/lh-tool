@@ -1,4 +1,4 @@
-module lh-tool
+module github.com/liuggchen/lh-tool
 
 go 1.17
 
