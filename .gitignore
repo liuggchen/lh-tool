@@ -1,3 +1,9 @@
 .idea
 *.exe
 !libwebp/bin/*.exe
+
+# Binary
+lh-tool
+
+# Archive
+*.tar.gz
